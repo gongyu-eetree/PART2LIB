@@ -1,0 +1,7 @@
+{
+  "name": "Auto Footprint Generator",
+  "description": "An AI-powered utility for electronic engineers to convert PDF/Image datasheets into KiCad footprints and STEP 3D models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
